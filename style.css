@@ -1029,7 +1029,7 @@ button:hover ~ #cursor { transform: translate(-50%, -50%) scale(2.5); }
 }
 
 /* ── REELS / VIDEO SECTION ──────────────────────────────────── */
-.reels-section {
+/* .reels-section {
   background: var(--dark-1);
 }
 
@@ -1114,7 +1114,7 @@ button:hover ~ #cursor { transform: translate(-50%, -50%) scale(2.5); }
 .reel-info p {
   font-size: 0.82rem;
   color: var(--gray-3);
-}
+} */
 
 /* ── TESTIMONIALS SECTION ───────────────────────────────────── */
 .testimonials-section {
